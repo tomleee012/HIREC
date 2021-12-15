@@ -1,0 +1,50 @@
+﻿  HIREV.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdarg.h(13,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdarg.h(14,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdarg.h(29,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_string.h(12,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_string.h(13,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_string.h(113,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memcpy_s.h(58,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memcpy_s.h(80,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(97,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(98,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(99,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(105,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(120,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(121,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(122,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(128,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(243,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(244,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(245,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(252,16): error C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(270,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(87,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(88,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(89,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(95,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(130,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(131,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(132,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(138,9): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h(160,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h(161,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h(188,20): error C4996: '_wctime64': This function or variable may be unsafe. Consider using _wctime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h(203,13): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(480,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(481,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(483,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(482,20): error C4996: '_ctime64': This function or variable may be unsafe. Consider using _ctime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(499,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(500,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(502,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(501,20): error C4996: '_gmtime64': This function or variable may be unsafe. Consider using _gmtime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(510,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(511,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(513,21): warning C4068: unknown pragma 'Rf_warning'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(512,20): error C4996: '_localtime64': This function or variable may be unsafe. Consider using _localtime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomle\OneDrive - The Chinese University of Hong Kong\Research\HIRE\HIREewasV\src\HIREV.h(427,23): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomle\OneDrive - The Chinese University of Hong Kong\Research\HIRE\HIREewasV\src\HIREV.h(478,13): warning C4013: 'quadprog2' undefined; assuming extern returning int
+C:\Users\tomle\OneDrive - The Chinese University of Hong Kong\Research\HIRE\HIREewasV\src\HIREV.h(602,19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tomle\OneDrive - The Chinese University of Hong Kong\Research\HIRE\HIREewasV\src\HIREV.h(620,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
